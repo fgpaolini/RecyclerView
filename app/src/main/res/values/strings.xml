@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+
+    <string-array name="fitness_full_txt">
+        <item>Ejercicios</item>
+        <item>Cardio</item>
+        <item>Alimentación</item>
+        <item>HIIT</item>
+        <item>Brazos</item>
+        <item>Rutinas</item>
+        <item>Cronómetro</item>
+        <item>Mujer</item>
+        <item>Proteínas</item>
+        <item>Full Body</item>
+    </string-array>
+
+    <string-array name="fitness_three_txt">
+        <item>Eje</item>
+        <item>Car</item>
+        <item>Ali</item>
+        <item>HIIT</item>
+        <item>Bra</item>
+        <item>Rut</item>
+        <item>Cro</item>
+        <item>Muj</item>
+        <item>Prot</item>
+        <item>Full</item>
+    </string-array>
+    <string-array name="fitness_one_txt">
+        <item>E</item>
+        <item>C</item>
+        <item>A</item>
+        <item>H</item>
+        <item>B</item>
+        <item>R</item>
+        <item>C</item>
+        <item>M</item>
+        <item>P</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
